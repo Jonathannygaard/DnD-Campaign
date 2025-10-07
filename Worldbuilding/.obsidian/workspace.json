@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drum'ghichad.md",
+                "file": "Sessions/Session 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drum'ghichad"
+              "title": "Session 6"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Drum'ghichad.md",
+                "file": "Sessions/Session 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drum'ghichad"
+              "title": "Backlinks for Session 6"
             }
           },
           {
@@ -159,22 +159,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "7b6c81f33e7372bd",
+  "active": "805a2eecbd92dd47",
   "lastOpenFiles": [
+    "Sessions/Session 5.md",
+    "Drum'ghichad.md",
     "Sessions/Session 6.md",
     "Politics/Politics.md",
     "Politics/Elarion Kingdom.md",
@@ -182,7 +184,6 @@
     "Politics/Caldrithil Council.md",
     "Niatania/Drekhmir/Drekhmir.md",
     "Zyrrot.md",
-    "Sessions/Session 5.md",
     "Sessions/Session 4.md",
     "Sessions/Fight.md",
     "Religion/Gods/Neryth and Kaelor/Neryth & Kaelor.md",
@@ -213,7 +214,6 @@
     "Links/Music.md",
     "Links",
     "Liander Havenswift.md",
-    "Drum'ghichad.md",
     "Cults and factions/Guilds/The Phantoms of the Realm/The Phantoms of the Realm.md",
     "Cults and factions/Guilds/The Phantoms of the Realm",
     "Cults and factions/Guilds/The Blades of Elarion",
