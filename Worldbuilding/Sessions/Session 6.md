@@ -1,6 +1,13 @@
 > Fenric must attune to the ring of warmth
 
+## Attack on [[The Bridgewater Inn]]
+In the middle of the night [[The Bridgewater Inn]] gets attacked. The player characters wake up to the tavern in chaos. They find [[Mayla Greenbrook]] on the floor gasping for air. 
+> Please, give this to my daughter. 
 
+She hands the players the key to the tavern before passing away. 
+[[The Invisible Man| Dorrak]] walks down with the party to see the destruction. 
+
+The party might see carved into the bar: "In silence we rule"
 ## Brothers vision
 _Sleep draws you down again, but this time you don’t fall into darkness. Instead, you open your eyes upon a vast, quiet field beneath a starless sky. The ground is covered in pale white flowers, their petals swaying without wind. All is still, except for a soft glow in the distance — a single lantern’s flame._
 
@@ -43,4 +50,3 @@ If the players decide to help the community they will be rewarded with 20 gold a
 **This can help push the development of the plot in Littlevale** 
 
 ## If the party heads south towards [[Greymoor]]
-
